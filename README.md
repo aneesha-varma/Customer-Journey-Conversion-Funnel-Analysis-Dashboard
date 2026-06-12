@@ -161,6 +161,6 @@ This dashboard provides a clear and interactive view of customer behavior, enabl
 
 ## ⭐ Author
 
-**Your Name**
+**Aneesha Varma**
 
 ---
